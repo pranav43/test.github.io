@@ -1,0 +1,2738 @@
+/* BACKGROUND-COLOR */
+
+
+
+#header {
+    background-color: rgb(40,42,53);
+    width: 1583px;
+    height: 537px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 75px;
+}
+
+
+#header2 {
+    margin: 0px;
+    background-color: rgb(217,238,225);
+    width: 1583px;
+    height: 495px;
+    position: absolute;
+    top: 612px;
+    left: 0px;
+    right: 0px;
+}
+
+
+#header3 {
+    margin: 0px;
+    background-color: rgb(254,244,163);
+    width: 1583px;
+    height: 495px;
+    position: absolute;
+    top: 1107px;
+    left: 0px;
+    right: 0px;
+}
+
+
+#header4 {
+    background-color: rgb(40,42,53);
+    width: 1583px;
+    height: 537px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 1603px;
+}
+
+
+#header5 {
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+    width: 1583px;
+    height: 495px;
+    position: absolute;
+    top: 2140px;
+    left: 0px;
+    right: 0px;
+}
+
+
+/*
+margin: 0px;
+background-color: yellow;
+width: 100%;
+height: 500px;
+*/
+.block1{
+    position: relative;
+    bottom: 65px;
+}
+
+
+#big {
+    color: white;
+    font-size: 100px;
+    font-family:"Source Sans Pro", sans-serif;
+    font-weight: bold;
+    padding: 100px 0 0 0;
+    margin: 80px 0 0 300px;
+}
+
+#small_txt_header {
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 260px;
+    padding: 5px 0 0 0;
+}
+
+/* LEARN-HTML-GREEN-BUTTON */
+
+.biggreen1{
+    background-color: rgb(50,170,109);
+    width: 200px;
+    height: 50px;
+    margin: 10px 0 0 335px;
+    border-radius: 30px;
+    border: solid rgb(50,170,109) ;
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HOVER-EFFECT-ON-GREEN-BUTTON(COLOR CHANGE) */
+
+.biggreen1:hover{
+    background-color: rgb(43,152,98);
+    border: solid rgb(43,152,98);
+}
+
+
+/* LEARN-HTML-WHITE-BUTTON */
+
+#whitebutton1 {
+    width: 200px;
+    height: 50px;
+    margin: 20px 0 0 335px;
+    border-radius: 50px;
+    border: solid rgb(255, 255, 255) ;
+    color: #000000;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HOVER-EFFECT-ON-WHITE-BUTTON(COLOR CHANGE) */
+
+#whitebutton1:hover{
+    background-color: rgb(210, 215, 219);
+    border: solid rgb(210, 215, 219);
+}
+
+/* CODE-EDITOR */
+#codeeditor1 {
+    background-color: rgb(231,233,235);
+    height: 391px;
+    width: 618px;
+    position: absolute;
+    top: 76px;
+    left: 850px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* INSIDE-CODE-EDITOR */
+
+#InsideCodeEditor {
+    background-color: white;
+    height: 250px;
+    width: 560px;
+    margin-left: 20px;
+    margin-top: 19px;
+    border-left: solid rgb(50,170,109) 4px;
+}
+
+/* TEXT-INSIDE-TEXT */
+
+#codetxt1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    font-size: 23px;
+    margin: 30px 0 0 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;;
+}
+
+/* HTML-CODE-TEXT1 */
+
+#htmlcodeimg1 {
+    padding-top: 11px;
+    padding-left: 7px;
+}
+
+/* BUTTON-YOURSELF1 */
+
+#TryYourSelf1 {
+    background-color: rgb(50,170,109);
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid rgb(50,170,109) ;
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 340px;
+    left: 23px;
+    
+}
+
+#TryYourSelf1:hover{
+    background-color: rgb(43,152,98);
+    border: solid rgb(43,152,98);
+}
+
+/* SITE-LOGO */
+
+#siteLogo {
+    height: 75px;
+    width: 60;
+    position: absolute;
+    left: 30px;
+    top: 1px;
+}
+
+/* ****NAVIGATION**** */
+
+/* "LEFT-BLOCK" */
+
+.nav1 {
+    font-family: Verdana,sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    z-index: 1;
+    font-size: 18px;
+    position: relative;
+    color: black;
+    left: 120px;
+    top: 10px;
+    letter-spacing: 1px;
+}
+
+
+
+#arrow1 {
+    z-index: 1;
+    height: 12px;
+    width: 9px;
+    transform: rotate(90deg);
+    position: relative;
+    left: 202px;
+    bottom: 27px;
+}
+
+/* HOVER EFFECT */
+
+.hovergreen1 {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    left: 113px;
+    width: 120px;
+    height: 200px
+}
+
+.hovergreen1:hover {
+    background-color: rgb(50,170,109);
+    position: absolute;
+    top: 0;
+    left: 113px;
+    width: 120px;
+    height: 200px
+}
+
+.hovergreen2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0;
+    left: 250px;
+    width: 125px;
+    height: 200px
+}
+
+.hovergreen2:hover {
+    background-color: rgb(50,170,109);
+    position: absolute;
+    top: 0;
+    left: 250px;
+    width: 125px;
+    height: 200px
+}
+
+.hovergreen3 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0;
+    left: 395px;
+    width: 120px;
+    height: 200px
+}
+
+.hovergreen3:hover {
+    background-color: rgb(50,170,109);
+    position: absolute;
+    top: 0;
+    left: 395px;
+    width: 120px;
+    height: 200px
+}
+
+
+.nav2 {
+    font-family: Verdana,sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    z-index: 1;
+    font-size: 18px;
+    position: relative;
+    color: black;
+    left: 250px;
+    bottom: 67px;
+    letter-spacing: 1px;
+}
+
+#arrow2 {
+    z-index: 1;
+    height: 12px;
+    width: 9px;
+    transform: rotate(90deg);
+    position: relative;
+    left: 350px;
+    bottom: 103px;
+}
+
+.nav3 {
+    font-family: Verdana,sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    z-index: 1;
+    font-size: 18px;
+    position: relative;
+    color: black;
+    left: 400px;
+    bottom: 143px;
+    letter-spacing: 1px;
+}
+
+#arrow3 {
+    z-index: 1;
+    height: 12px;
+    width: 9px;
+    transform: rotate(90deg);
+    position: relative;
+    left: 484px;
+    bottom: 179px;
+}
+
+
+/* "RIGHT-BLOCK" */
+
+#darkmode {
+    width: 22px;
+    height: 21px;
+    z-index: 1;
+    position: absolute;
+    right: 416px;
+    top: 28px;
+}
+
+#worldlogo {
+    width: 22px;
+    height: 21px;
+    z-index: 1;
+    position: absolute;
+    right: 365px;
+    top: 28px;  
+}
+
+#searchlogo {
+    width: 22px;
+    height: 21px;
+    z-index: 1;
+    position: absolute;
+    right: 310px;
+    top: 28px; 
+
+}
+
+
+#PaidCourses {
+    z-index: 1;
+    height: 42px;
+    width: 140px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 30px;
+    border: solid rgb(255, 255, 255) ;
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 19px;
+    right: 150px;
+}
+
+#PaidCourses:hover{
+    background-color: rgb(43,152,98);
+    border: solid rgb(43,152,98);
+    color: white;
+    height: 42px;
+    width: 140px;
+}
+
+#Login {
+    z-index: 1;
+    height: 42px;
+    width: 140px;
+    background-color: rgb(50,170,109);
+    border-radius: 30px;
+    border: solid rgb(50,170,109) ;
+    color: rgb(253, 253, 253);
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 19px;
+    right: 8px;
+}
+
+#Login:hover{
+    background-color: rgb(43,152,98);
+    border: solid rgb(43,152,98);
+    color: white;
+    height: 42px;
+    width: 140px;
+}
+
+
+/* HEADER2 */
+
+#cssreferenceblack {
+    background-color: rgb(40,42,53);
+    width: 200px;
+    height: 50px;
+    margin: 20px 0 0 335px;
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cssreferenceblack:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+#big2 {
+    color: #000000;
+    font-size: 100px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    padding: 100px 0 0 20px;
+    margin: 80px 0 0 330px;
+}
+
+#small_txt_header2 {
+    color: #000000;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 260px;
+    padding: 5px 0 0 0;
+}
+/* CODE-EDITRO-2 */
+ 
+#codeeditor2 {
+    background-color: rgb(231,233,235);
+    height: 341px;
+    width: 618px;
+    position: absolute;
+    top: 76px;
+    left: 850px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* INSIDE-CODE-EDITOR-2 */
+
+#InsideCodeEditor2 {
+    background-color: white;
+    height: 200px;
+    width: 560px;
+    margin-left: 20px;
+    margin-top: 19px;
+    border-left: solid rgb(50,170,109) 4px;
+}
+
+/* BUTTON-TRY-YOURSELF2 */
+
+#TryYourSelf2 {
+    background-color: rgb(50,170,109);
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid rgb(50,170,109) ;
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 289px;
+    left: 23px;
+    
+}
+
+#TryYourSelf2:hover{
+    background-color: rgb(43,152,98);
+    border: solid rgb(43,152,98);
+}
+
+
+/* HEADER-3 */
+
+#big3   {
+    color: #000000;
+    font-size: 70px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    padding: 70px 0 20px 0px;
+    margin: 80px 0 0px 290px;
+
+   
+}
+
+
+/* CODE-EDITRO-3 */
+ 
+#codeeditor3 {
+    background-color: rgb(231,233,235);
+    height: 361px;
+    width: 618px;
+    position: absolute;
+    top: 65px;
+    left: 850px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/* INSIDE-CODE-EDITOR-3 */
+
+#InsideCodeEditor3 {
+    background-color: white;
+    height: 215px;
+    width: 560px;
+    margin-left: 20px;
+    margin-top: 19px;
+    border-left: solid rgb(50,170,109) 4px;
+}
+
+
+/* BUTTON-YOURSELF3 */
+
+#TryYourSelf3 {
+    background-color: rgb(50,170,109);
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid rgb(50,170,109) ;
+    color: white;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 308px;
+    left: 23px;
+    
+}
+
+#TryYourSelf3:hover{
+    background-color: rgb(43,152,98);
+    border: solid rgb(43,152,98);
+}
+
+
+
+/* HEADER-4 */
+
+#big4 {
+    color: white;
+    font-size: 100px;
+    font-family:"Source Sans Pro", sans-serif;
+    font-weight: bold;
+    padding: 100px 0 0 0;
+    margin: 80px 0 0 260px;
+}
+
+#small_txt_header4 {
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 290px;
+    padding: 5px 0 0 0;
+}
+
+
+#whitebutton1 {
+    width: 200px;
+    height: 50px;
+    margin: 20px 0 0 335px;
+    border-radius: 50px;
+    border: solid rgb(255, 255, 255) ;
+    color: #000000;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HOVER-EFFECT-ON-WHITE-BUTTON(COLOR CHANGE) */
+
+#whitebutton1:hover{
+    background-color: rgb(210, 215, 219);
+    border: solid rgb(210, 215, 219);
+}
+
+/* indexblock */
+
+#index {
+    background-color: rgb(40,42,53);
+    width: 1583px;
+    height: 2706px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 2635px;
+}
+
+#container1 {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+#php {
+    height: 248px;
+    width: 616px;
+    background-color: rgb(251,192,199);
+    margin: 92px 0px 0 134px;
+    border-radius: 6px;
+}
+
+#jquery {
+    height: 248px;
+    width: 616px;
+    background-color: rgb(254,244,163);
+    margin: 92px 0 0 84px;
+    border-radius: 6px;
+}
+
+#java {
+    height: 248px;
+    width: 616px;
+    background-color: rgb(243,236,234);
+    margin: 56px 0 0 134px;
+    border-radius: 6px;
+}
+
+#cpp {
+    height: 248px;
+    width: 616px;
+    background-color: rgb(217,238,225);
+    margin: 56px 0 0 84px;
+    border-radius: 6px;
+}
+
+#w3css {
+    height: 315px;
+    width: 616px;
+    background-color: rgb(150,212,212);
+    margin: 56px 0 0 134px;
+    border-radius: 6px;
+}
+
+#bootstrap {
+    height: 315px;
+    width: 616px;
+    background-color: rgb(231,233,235);
+    margin: 56px 0 0 84px;
+    border-radius: 6px;
+}
+
+/* PHP */
+
+.title {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 36px 0 0 260px;
+}
+
+.subtitle {
+    height: 70px;
+    width: 568px;
+    position: absolute;
+    left: 140px;
+}
+
+.h5-1 {
+    font-size: 18px;
+    font-family: "Soruce Sans Pro",sans-serif;
+    font-weight: bold;
+    color: rgb(58,58,58);
+    text-align: center;
+}
+
+.learnphp {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 341px;
+    top: 273px;
+}
+
+.learnphp:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+/* JQUERY */
+
+.learnjquery {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 1041PX;
+    top: 273px;
+}
+
+.learnjquery:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+.h5-2 {
+    font-size: 18px;
+    font-family: "Soruce Sans Pro",sans-serif;
+    font-weight: bold;
+    color: rgb(58,58,58);
+    position: relative;
+    left: 857px;
+}
+
+
+/* JAVA */
+
+.h5-3 {
+    font-size: 18px;
+    font-family: "Soruce Sans Pro",sans-serif;
+    font-weight: bold;
+    color: rgb(58,58,58);
+    position: relative;
+    left: 190px;
+}
+
+
+.learnjava {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 341px;
+    top: 577px;
+}
+
+.learnjava:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+/* C++ */
+
+.h5-4 {
+    font-size: 18px;
+    font-family: "Soruce Sans Pro",sans-serif;
+    font-weight: bold;
+    color: rgb(58,58,58);
+    position: relative;
+    left: 890px;
+}
+
+.learncpp {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 1041px;
+    top: 577px;
+}
+
+.learncpp:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+/* W3.CSS */
+
+.h5-5 {
+    font-size: 18px;
+    font-family: "Soruce Sans Pro",sans-serif;
+    font-weight: bold;
+    color: rgb(58,58,58);
+    position: relative;
+    left: 36px;
+}
+
+.title5 {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 36px 0 0 240px;
+}
+
+.learnw3css {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 341px;
+    top: 886px;
+}
+
+.learnw3css:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+/* BOOTSTRAP */
+
+.title6 {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 36px 0 10px 210px;
+}
+
+.h5-6 {
+    font-size: 18px;
+    font-family: "Soruce Sans Pro",sans-serif;
+    font-weight: bold;
+    color: rgb(58,58,58);
+    position: relative;
+    left: 796px;
+}
+
+.learnBS3 {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 1041px;
+    top: 886px;
+}
+
+.learnBS3:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+.learnBS4 {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+    position: absolute;
+    left: 1041px;
+    top: 944px;
+}
+
+.learnBS4:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+/* CONTAINER-2 */
+
+
+/* lang */
+
+#lang {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,176,184);
+    border-radius: 5px;
+    margin: 128px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#lang:hover {
+    background-color: rgb(251,192,199);
+}
+
+#C-hash {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 115px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+/* lang1 */
+
+#lang1 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,223,151);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+#lang1:hover {
+    background-color: rgb(254,244,163);
+}
+
+/* lang2 */
+
+#lang2 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(222,216,215);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+#kotlin {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 95px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang2:hover {
+    background-color: rgb(243,236,234);
+}
+
+/* lang3 */
+
+#lang3 {
+    height: 113px ;
+    width: 266px ;
+    background-color:rgb(199,218,207);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+#mysql {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 85px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang3:hover {
+    background-color: rgb(217,238,225);
+}
+
+
+/* lang4 */
+
+#lang4 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(138,194,195);
+    border-radius: 5px;
+    margin: 52px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+#nodejs {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 85px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang4:hover {
+    background-color: rgb(150,212,212);
+}
+
+/* lang5 */
+
+#lang5 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,176,184);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+
+#React {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 95px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang5:hover {
+    background-color: rgb(251,192,199);
+}
+
+/* lang6 */
+
+#lang6 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,223,151);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#Json {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 95px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang6:hover {
+    background-color: rgb(254,244,163);
+}
+
+/* lang7 */
+
+#lang7 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(222,216,215);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#angularjs {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 70px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang7:hover {
+    background-color: rgb(243,236,234);
+}
+
+/* lang8 */
+
+#lang8 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(199,218,207);
+    border-radius: 5px;
+    margin: 52px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#w3js {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 85px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang8:hover {
+    background-color: rgb(217,238,225);
+}
+
+/* lang9 */
+
+#lang9 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(138,194,195);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#xml {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 105px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang9:hover {
+    background-color: rgb(150,212,212);
+}
+
+/* lang10 */
+
+#lang10 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,176,184);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#sass {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 100px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang10:hover {
+    background-color: rgb(251,192,199);
+}
+
+/* lang11 */
+
+#lang11 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,223,151);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+
+#icons {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 95px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang11:hover {
+    background-color: rgb(254,244,163);
+}
+
+
+/* lang12 */
+
+#lang12 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(222,216,215);
+    border-radius: 5px;
+    margin: 52px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#graphics {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 75px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang13:hover {
+    background-color: rgb(217,238,225);
+}
+
+#rwd {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 100px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang12:hover {
+    background-color: rgb(243,236,234);
+}
+
+/* lang13 */
+
+#lang13 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(199,218,207);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+
+
+/* lang14 */
+
+#lang14 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(138,194,195);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#svg {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 105px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang14:hover {
+    background-color: rgb(150,212,212);
+}
+
+
+
+/* lang15 */
+
+#lang15 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,176,184);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+
+#canvas {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 87px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang15:hover {
+    background-color: rgb(251,192,199);
+}
+
+
+/* lang16 */
+
+#lang16 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,223,151);
+    border-radius: 5px;
+    margin: 52px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#raspberryPi {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 45px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang16:hover {
+    background-color: rgb(254,244,163);
+}
+
+/* lang17 */
+
+#lang17 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(222,216,215);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#cyber {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 95px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang17:hover {
+    background-color: rgb(243,236,234);
+}
+
+/* lang18 */
+
+#lang18 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(199,218,207);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#colors {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 90px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang18:hover {
+    background-color: rgb(217,238,225);
+}
+
+/* lang19 */
+
+#lang19 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(138,194,195);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#git {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 110px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang19:hover {
+    background-color: rgb(150,212,212);
+}
+
+
+/* lang20 */
+
+#lang20 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(211,213,216);
+    border-radius: 5px;
+    margin: 52px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#matplotlib {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 65px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang20:hover {
+    background-color: rgb(243,236,234);
+}
+
+/* lang21 */
+
+#lang21 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,223,151);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#numpy {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 85px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang21:hover {
+    background-color: rgb(254,244,163);
+}
+
+
+/* lang22 */
+
+#lang22 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(222,216,215);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#pandas {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 85px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang22:hover {
+    background-color: rgb(243,236,234);
+}
+
+
+/* lang23 */
+
+#lang23 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(199,218,207);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#scipy {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 95px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang23:hover {
+    background-color: rgb(217,238,225);
+}
+
+/* lang24 */
+
+#lang24 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(199,218,207);
+    border-radius: 5px;
+    margin: 52px 0 0 134px  ;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#asp {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 105px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang24:hover {
+    background-color: rgb(217,238,225);
+}
+
+
+/* lang25 */
+
+#lang25 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(211,213,216);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#accessibility {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 55px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang25:hover {
+    background-color: rgb(243,236,234);
+}
+
+
+/* lang26 */
+
+#lang26 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(233,223,151);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#appml {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 85px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang26:hover {
+    background-color: rgb(254,244,163);
+}
+
+
+/* lang27 */
+
+#lang27 {
+    height: 113px ;
+    width: 266px ;
+    background-color: rgb(222,216,215);
+    border-radius: 5px;
+    margin: 0 0 0 80px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#howtos {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 70px;
+    position: absolute;
+    color: #000000;
+
+} 
+
+#lang27:hover {
+    background-color: rgb(243,236,234);
+}
+
+
+/* container 3 */
+
+
+/* Machine Learning */
+
+#machinelearning {
+    background-color: rgb(233,176,184);
+    height: 113px;
+    width: 616px;
+    margin: 52px 0 0 134px;
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#ml {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 195px;
+    position: absolute;
+    color: #000000;
+}
+
+#machinelearning:hover {
+    background-color: rgb(251,192,199);
+}
+
+
+/* Artificial Intelligence */
+
+#artificialIntelligence {
+    background-color: rgb(222,216,215);
+    height: 113px;
+    width: 616px;
+    margin: 52px 0 0 80px;
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#ai {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 195px;
+    position: absolute;
+    color: #000000;
+}
+
+#artificialIntelligence:hover {
+    background-color: rgb(243,236,234);
+}
+
+/* Statics */
+
+#statics {
+    background-color: rgb(138,194,195);
+    height: 113px;
+    width: 616px;
+    margin: 52px 0 0 134px;
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+
+#stats {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 260px;
+    position: absolute;
+    color: #000000;
+}
+
+#statics:hover {
+    background-color: rgb(150,212,212);
+}
+
+/* Data Science */
+
+#dataScience {
+    background-color: rgb(233,223,151);
+    height: 113px;
+    width: 616px;
+    margin: 52px 0 0 80px;
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+#DS {
+    font-family:"Source Sans Pro", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 0 0 240px;
+    position: absolute;
+    color: #000000;
+}
+
+#dataScience:hover {
+    background-color: rgb(254,244,163);
+}
+
+/* color picker block */
+
+#colorpicker {
+    height: 461px;
+    width: 1583px;
+    position: absolute;
+    background-color: rgb(243,236,234);
+    left: 0px;
+    right: 0px;
+    top: 5341px;
+}
+
+#heading {
+    font-size: 65px;
+    font-family: "Source Sans Pro", sans-serif;
+    vertical-align: baseline;
+    margin: 80px 0 0 92px;
+    line-height:97.5px;
+    height: 97px;
+    width: 1400px;
+    text-align: center;
+}
+
+#paragraph {
+    font-size: 20px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px;
+}
+
+#colorHex {
+    position: relative;
+    left: 700px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#colorHex:hover {
+    opacity: .7;
+}
+
+
+/* CODE-GAME-BLOCK */
+
+#codegame {
+    background-color: rgb(150,212,212);
+    height: 608px;
+    width: 1583px;
+    position: absolute;
+    top: 5802px;
+    left: 0px;
+    right: 0px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-family: "Freckle Face", cursive;
+}
+
+#headingcg {
+    font-size: 48px;
+    font-weight: 400;
+    margin: 0px 0 2px 0;
+}
+
+#paragraphcg {
+    font-size: 32px;
+    margin: 0px 0 26px 0;
+    font-weight: 400;
+}
+
+#codegamelogo {
+    margin: 0 0 34px 0;
+}
+
+#codegamelogo:hover {
+    opacity: .7;
+}
+
+#playgame {
+    background-color: rgb(40,42,53);
+    border-radius: 50px;
+    border: solid rgb(40,42,53) ;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Soruce Sans Pro", sans-serif;
+    height: 43px;
+    width: 200px;
+}
+#playgame:hover{
+    background-color: rgb(0,0,0);
+    border: solid rgb(0,0,0);
+}
+
+/* TestYourSkills */
+
+#TestYourSkills {
+    background-color: rgb(35,36,52);
+    height: 521px;
+    width: 1583px ;
+    position: absolute;
+    top: 6410px;
+    right: 0px;
+    left: 0px;
+}
+
+/* text */
+
+#enq {
+    color: white;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    font-family:"Soruce Sans Pro", sans-serif ;
+    font-weight: 700;
+    font-size: 45px;
+    padding: 10px;
+    margin: 74px 0 10px 0;
+}
+
+#tys {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    font-family:"Soruce Sans Pro", sans-serif ;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* BUTTON-LINKS */
+#exbu1 {
+    background-color: rgb(48,164,107);
+    border-radius: 5px;
+    width: 567px;
+    height: 192px;
+    opacity: .97;
+    position: absolute;
+    top: 231px;
+    left: 170px;
+    z-index: 1;
+}
+
+#exbu1:hover {
+    opacity: 0.9;
+}
+
+#exbu {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: "Source Sans Pro", sans-serif;
+    position: absolute;
+    left: 220px;
+    top: 20px;
+    font-weight: 500;
+}
+
+
+#exbu2 {
+    background-color: rgb(248,237,159);
+    border-radius: 5px;
+    width: 567px;
+    height: 192px;
+    opacity: .97;
+    position: absolute;
+    top: 231px;
+    left: 838px;
+    z-index: 1;
+}
+
+#exbu2:hover {
+    opacity: 0.9;
+    background-color: rgb(248,233,126);
+}
+
+#link {
+    text-decoration: none;
+}
+
+#text2 {
+    color: #000;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: "Source Sans Pro", sans-serif;
+    position: absolute;
+    left: 235px;
+    top: 20px;
+    font-weight: 500;
+}
+
+/* BACKGROUND-LOGOS */
+
+.fixedLogos {
+    height: 80px;
+    width: 80px;
+}
+
+#one {
+    position: absolute;
+    left: 600px;
+    top: 140px;
+    
+}
+
+#two {
+    position: absolute;
+    left: 1100px;
+    top: 100px;
+    transform: rotate(30deg);
+}
+
+
+#third {
+    position: absolute;
+    left: 747px;
+    top: 285px;
+    transform: rotate(10deg);
+}
+
+#forth {
+    position: absolute;
+    left: 1247px;
+    top: 25px;
+    transform: rotate(10deg);
+}
+
+#fifth {
+    position: absolute;
+    left: 350px;
+    top: 20px;
+    transform: rotate(-20deg);   
+}
+
+#sixth {
+    position: absolute;
+    left: 900px;
+    top: 139px;  
+}
+
+#seventh {
+    position: absolute;
+    left: 190px;
+    top: 120px;
+    transform: rotate(-20deg);   
+}
+
+
+#eight {
+    position: absolute;
+    left: 1450px;
+    top: 270px;
+    transform: rotate(-20deg);
+    
+}
+
+
+#nine {
+    position: absolute;
+    left: 40px;
+    top: 250px;
+    transform: rotate(-30deg);
+}
+
+#ten {
+    position: absolute;
+    left: 1450px;
+    top: 65px;
+    transform: rotate(-10deg);
+}
+
+#eleven {
+    position: absolute;
+    left: 50px;
+    top: 19px;  
+}
+
+/* TEMPLET */
+
+#templets {
+    height: 787px;
+    width: 1583px;
+    background-color: rgb(231,233,235);
+    position: absolute;
+    top: 6931px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    
+}
+
+#titleTemplet {
+    font-size: 45px;
+    font-family: "Soruce Sans Pro", sans-serif;
+    font-weight: 700;
+    padding: 10px;
+    margin: 74px 0 10px 0;
+}
+
+#paratemplet {
+    font-size: 20px;
+    font-family: "Soruce Sans Pro", sans-serif;
+    font-weight: 700;
+    margin: 0px 0 26px 0;
+    padding: 10px
+}
+
+#templet {
+    margin-bottom: 30px;
+    padding: 0px
+}
+
+#templetbutton {
+    font-family: "Source Sans Pro", sans-serif;
+    width: 768px;
+    height: 59px;
+    border-radius: 40px;
+    background-color: rgb(40,42,53);
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 0px;
+    border: rgb(40,42,53);
+    margin: 0px;
+
+}
+
+#templetbutton:hover {
+    background-color: rgb(0,0,0);
+    border: rgb(0, 0, 0) ;
+}
+
+
+/* CERTIFICATION */
+
+#certification {
+    background-color: rgb(40,42,53);
+    width: 1583px;
+    height: 488px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 7718px;
+    margin: 0px;
+}
+
+#toplogo {
+    position: absolute;
+    top: 307px;
+    left: 1090px;
+    z-index: 1;
+}
+
+#kickstart {
+    color: rgb(251,192,199);
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 92px;
+    text-align: start;
+    margin: 62px 0 0 60px;
+}
+
+#moto {
+    line-height: 78px;
+    font-family: "Source Sans Pro", sans-serif;
+    color: rgb(251,192,199);
+    font-size: 52px;
+    text-align: start;
+    font-weight: 600;
+    margin-left: 60px;
+    margin-top: 62px;
+}
+
+#getit {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: #32AA6D;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 17px 55px 17px 55px;
+    font-weight: 600;
+    margin: 0px 0px 0px 60px;
+    border-radius: 100px;
+    position: absolute;
+    top: 357px;
+
+}
+
+#getit:hover {
+    background-color: #2B9862;
+}
+
+/* SCROLL-BAR */
+
+/* HEADING-PART */
+
+#scrollbar {
+    background-color: #ffffff;
+    position: absolute;
+    top: 8206px;
+    left: 0px;
+    right: 0px;
+    width: 1583px;
+    height: 689px;
+    margin-top: 88px;
+}
+
+#HTsection {
+    text-align: center;
+    font-size: 45px;
+    line-height: 67.5px;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #000000;
+    font-weight: 700;
+    position: relative;
+    top: 18px;
+    margin-bottom: 1px;
+}
+
+#HTpara {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: rgb(45, 45, 51);
+}
+
+
+/* PARENT-AND-BACKGROUND-COLOR-PART */
+
+
+#slide1 {
+    position: absolute;
+    width: 482px;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+    left: 302px;
+    top: 197px;
+    border: solid 5px rgb(221,221,221);
+
+}
+
+#slidebar1 {
+    position: absolute;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: rgb(17,17,17);
+    height: 350%;
+    width: 110px;
+    top: 0px;
+    left: 0px;
+    
+    
+}
+
+/* LEFT-SIDE-PART */
+
+
+  /* *** SLIDE-CONTENT-1 *** */ 
+#sidecontent1 {
+    color: rgb(129,129,129);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 15px 0px 0px 16px;
+    
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+#sidecontent1:hover {
+    color: #ffffff;
+}
+
+
+  /* *** SLIDE-CONTENT-1 *** */
+#sidecontent2 {
+    color: rgb(129,129,129);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+#sidecontent2:hover {
+    color: #ffffff;
+}
+
+  /* *** SLIDE-CONTENT-1 *** */
+#sidecontent3 {
+    color: rgb(129,129,129);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+#sidecontent3:hover {
+    color: #ffffff;
+}
+
+  /* *** SLIDE-CONTENT-1 *** */
+#sidecontent4 {
+    color: rgb(129,129,129);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+}
+  /* *** HOVER-EFFECTS *** */
+
+#sidecontent4:hover {
+    color: #ffffff;
+}
+
+/*  RIGHT-SIDE-PART */
+.conheading1 {
+    line-height: normal;
+    font-size: 24px;
+    color: #000000;
+    font-weight: 700;
+    text-align: start;
+    font-family:Lato, sans-serif;
+    position: relative;
+    left: 125px;
+}
+
+
+.conpara1 {
+    position: relative;
+    left: 125px;
+    font-family:Lato, sans-serif;
+}
+
+#Extra1 {
+    color: #ffffff;
+}
+
+
+/* PARENT-AND-BACKGROUND-COLOR-PART */
+
+
+#slide2 {
+    position: absolute;
+    width: 482px;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+    left: 799px;
+    top: 197px;
+    border: solid 5px rgb(221,221,221);
+    margin-left: 1px;
+}
+
+#slidebar2 {
+    width: 103px;
+    height: 148px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    background: #eee;
+    padding: 0px 0 20px 0;
+}
+
+
+  /* *** SLIDE-CONTENT-1 *** */ 
+  .sidecontent1 {
+    color: rgb(45,150,243);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+.sidecontent1:hover {
+    color: rgb(6, 69, 121);
+}
+
+  /* *** SLIDE-CONTENT-2 *** */ 
+  .sidecontent2 {
+    color: rgb(45,150,243);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+    
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+.sidecontent2:hover {
+    color: rgb(6, 69, 121);
+}
+
+  /* *** SLIDE-CONTENT-3 *** */ 
+  .sidecontent3 {
+    color: rgb(45,150,243);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+    
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+.sidecontent3:hover {
+    color: rgb(6, 69, 121);
+}
+
+  /* *** SLIDE-CONTENT-4 *** */ 
+  .sidecontent4 {
+    color: rgb(45,150,243);
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    line-height: normal;
+    font-weight: 400;
+    padding: 0px 0px 0px 16px;
+    
+}
+
+  /* *** HOVER-EFFECTS *** */
+
+.sidecontent4:hover {
+    color: rgb(6, 69, 121);
+}
+
+
+
+/*  RIGHT-SIDE-PART */
+.conheading2 {
+    line-height: normal;
+    font-size: 24px;
+    color: #000000;
+    font-weight: 700;
+    text-align: start;
+    font-family:Lato, sans-serif;
+    position: relative;
+    left: 125px;
+}
+
+
+.conpara1 {
+    position: relative;
+    left: 125px;
+    font-family:Lato, sans-serif;
+    width: 300px;
+}
+
+#Extra1 {
+    color: #ffffff;
+}
+
+
+/* BUTTON */
+
+#SlidebarButton {
+    font-family: "Source Sans Pro", sans-serif;
+    width: 768px;
+    height: 59px;
+    border-radius: 40px;
+    background-color: rgb(40,42,53);
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 0px;
+    border: rgb(40,42,53);
+    margin: 0px;
+    position: absolute;
+    left: 408px;
+    top: 545px;
+    
+
+}
+
+#SlidebarButton:hover {
+    background-color: rgb(0,0,0);
+    border: rgb(0, 0, 0) ;
+}
+
+
+/* FOOTER-END */
+
+#end {
+    background-color: rgb(40,42,53);
+    width: 1583px;
+    height: 472px;
+    position: absolute;
+    top: 8983px;
+    right: 0;
+    left: 0;
+}
+
+.footerParent {
+    display: inline-flex;
+    justify-content: start;
+    
+}
+
+.footerChild1 {
+    color: #000000;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 17px;
+    line-height: 25.5px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(255,255,255);
+    text-decoration: none;
+    padding: 8px 16px 8px 16px;
+    position: absolute;
+    top: 55px;
+    left: 32px;
+    border-radius: 4px;
+}
+
+.footerChild1:hover {
+    background-color: rgb(241,241,241);
+}
+
+.footerChild2 {
+    color: #000000;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 17px;
+    line-height: 25.5px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(255,255,255);
+    text-decoration: none;
+    padding: 8px 16px 8px 16px;
+    position: absolute;
+    top: 55px;
+    left: 145px;
+    border-radius: 4px;
+}
+
+.footerChild2:hover {
+    background-color: rgb(241,241,241);
+}
+
+.footerChild3 {
+    color: #000000;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 17px;
+    line-height: 25.5px;
+    font-weight : 600;
+    text-align: center;
+    background-color: rgb(255,255,255);
+    text-decoration: none;
+    padding: 8px 16px 8px 16px;
+    position: absolute;
+    top: 55px;
+    left: 253px;
+    border-radius: 4px;
+}
+
+.footerChild3:hover {
+    background-color: rgb(241,241,241);
+}
+
+
+
+.links {
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 22.5px;
+    letter-spacing: 4px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.links:hover {
+    color: rgb(76, 175, 80);
+}
+
+#formNabout {
+    position: absolute;
+    left: 1396px;
+    top: 65px;
+}
+
+/* Images */
+
+#fb {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 1390px;
+    top: 145px;
+    background-color: rgb(40,42,53);
+    padding-top: 17px;
+    padding-right: 16px;
+    padding-bottom: 17px;
+    padding-left: 16px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    
+}
+
+#fb:hover {
+    background-color: white;
+    padding-top: 17px;
+    padding-right: 16px;
+    padding-bottom: 17px;
+    padding-left: 16px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+#insta {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 1442px;
+    top: 145px;
+    background-color: rgb(40,42,53);
+    padding-top: 17px;
+    padding-right: 16px;
+    padding-bottom: 17px;
+    padding-left: 16px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    
+}
+
+#insta:hover {
+    background-color: white;
+    padding-top: 17px;
+    padding-right: 16px;
+    padding-bottom: 17px;
+    padding-left: 16px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+#linkedin {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 1500px;
+    top: 145px;
+    background-color: rgb(40,42,53);
+    padding-top: 17px;
+    padding-right: 16px;
+    padding-bottom: 17px;
+    padding-left: 16px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    
+}
+
+
+#linkedin:hover {
+    background-color: white;
+    padding-top: 17px;
+    padding-right: 16px;
+    padding-bottom: 17px;
+    padding-left: 16px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+
+}
+
+#lastpara {
+    width: 1551px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    line-height: 22.5px;
+    font-weight: 400;
+    position: absolute;
+    top: 198px;
+    margin-left: 16px;
+
+}
+.togreen {
+    color: #ffffff;
+}
+
+
+.togreen:hover {
+    color: green;
+}
+
+#thumbsUp {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 304px;
+    left: 776px;
+    transform: rotate(2deg);
+}
+
+#workshop {
+    font-family: "Source Sans Pro", sans-serif;
+    width: 768px;
+    height: 59px;
+    border-radius: 40px;
+    background-color: rgb(50,170,109);
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 0px;
+    border: rgb(40,42,53);
+    margin: 0px;
+    position: absolute;
+    left: 404px;
+    top: 373px;
+    
+
+}
+
+#workshop:hover {
+    background-color: rgb(43,152,98);
+    border: rgb(43,152,98);
+}
+
+
+
+
+
+
+
+
